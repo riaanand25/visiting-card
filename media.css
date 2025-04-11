@@ -1,0 +1,31 @@
+@media screen and (min-width:320px) and (max-width:800px){
+    .hero-section{
+        flex-direction: column;
+        margin:  2rem;
+    }
+    .Images_logo{
+        width: 80%;
+    }
+    .Images_logo img ,
+    .Images_logo_second img,
+    .Images_logo_third img,
+    .Images_logo_fifth img,
+    .Images_logo_Fourth img
+    {
+        width: 100%;
+    }
+    .Images{
+        width: 90%;
+        margin: 3rem;
+    }
+    .Images_logo_second{
+        width: 70%;
+    }
+   
+    .Images_logo_third{
+     width: 70%;
+    }
+    .Images_logo_Fourth ,.Images_logo_fifth{
+        width: 100%;
+    }
+}

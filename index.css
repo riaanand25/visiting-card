@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif
+}
+header{
+    background-color: rgb(136, 55, 8);
+    text-align: center;
+    padding: 1rem;
+    color: #fff;
+}
+.Images_logo{
+    width: 25%;
+    height: auto;
+    margin: auto;
+}
+.Images_logo img{
+    width: 100%;
+    height: 100%;
+}
+.Images{
+    width: 45%;
+    height: auto;
+}
+.Images img{
+    width: 100%;
+    height: 100%;
+   /* border: 1px solid  rgba(128, 128, 128, 0.168);
+   border-radius: 20px; */
+   box-shadow: 5px 5px 2px rgba(128, 128, 128, 0.168);
+}
+.hero-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5rem;
+}
+/* h2{
+    text-align: center;
+    padding-top: 15px;
+    color: rgb(136, 55, 8);
+} */
+.Images_logo_second
+ ,.Images_logo_third{
+    width: 20%;
+    margin: auto;
+}
+.Images_logo_second img ,.Images_logo_third img{
+    width: 100%;
+}
+
+.Images_logo_Fourth{
+    width: 40%;
+    margin: auto;
+}
+.Images_logo_Fourth img{
+    width: 100%;
+
+}
+.Images_logo_fifth{
+    width: 20%;
+    margin: auto;
+}
+.Images_logo_fifth img{
+    width: 100%;
+}
+.Images_logo_sixth{
+    width: 1%;
+}
+
